@@ -1,4 +1,4 @@
-module data-validator
+module github.com/YngviWarrior/data-validator
 
 go 1.23.4
 

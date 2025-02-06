@@ -1,8 +1,9 @@
 package validator_test
 
 import (
-	validator "data-validator"
 	"testing"
+
+	validator "github.com/YngviWarrior/data-validator"
 )
 
 func Test(t *testing.T) {
